@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Libraay .29e81e2b\\x64\\Debug\\Libraay Mangement System.obj",
+            "outputs": [
+                "Libraay .29e81e2b\\x64\\Debug\\Libraay Mangement System.cpp.obj.dt.module.json",
+                "Libraay .29e81e2b\\x64\\Debug\\Libraay Mangement System.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+﻿  Libraay Mangement System.cpp
+D:\ENG Mohamed Hamed\C++ Projects\Libraay Mangement System\Libraay Mangement System.cpp(100,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  Libraay Mangement System.vcxproj -> D:\ENG Mohamed Hamed\C++ Projects\Libraay Mangement System\x64\Debug\Libraay Mangement System.exe
